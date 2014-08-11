@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1111929255" format="1.0" version="$Rev: 11354 $"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407719183" format="1.1" version="1"}%
 <!-- %TEMPLATETOOLKIT{"%URLPARAM{TT}%" WRAPPER="demowrapper.tt2"}% -->
 *%RED%Warning: Alpha Code, interfaces may change radically.  Do not use in production code.%ENDCOLOR%*
 ---+!! Template Toolkit Plugin
